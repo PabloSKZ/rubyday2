@@ -1,0 +1,1 @@
+Chaque fonction est dans une méthode accéssible via un menu
